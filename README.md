@@ -1,5 +1,5 @@
 # JS Platform Game
-##OOP JS platform Game
+## OOP JS platform Game
 
 Help the main player navigate to the checkpoints.
 
